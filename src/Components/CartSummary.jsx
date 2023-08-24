@@ -26,7 +26,7 @@ export default function CartSummary({ cart, total_amount, shipping_fee, orderTot
                     </div>
                     </div>
                     <div className='w-100 d-flex justify-content-between'>
-                    <Link to='/' className='continue-link'>
+                    <Link to='/MarF.shoe-shop' className='continue-link'>
                         <Button className='w-100 continue-btn'>Continue shopping</Button>
                     </Link>
                     <Button className='checkout-btn'>Checkout</Button>

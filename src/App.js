@@ -25,7 +25,7 @@ function App() {
         />
           <div className="App">
             <Routes>
-              <Route path='/' element={<Home />}/>
+              <Route path='/MarF.shoe-shop/' element={<Home />}/>
               <Route path='/cart' element={<CartPage />}/>
             </Routes>
           </div>

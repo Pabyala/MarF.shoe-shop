@@ -18,7 +18,7 @@ export default function Header({ setInputSearch, inputSearch }) {
         >
             <Container>
                 <Navbar.Brand className='title-nav d-flex align-items-center'>
-                    <Link to='/' className='title-shop'>MarF.shop</Link>
+                    <Link to='/MarF.shoe-shop' className='title-shop'>MarF.shop</Link>
                 </Navbar.Brand>
                 <div className='input-wrap'>
                     <input 
