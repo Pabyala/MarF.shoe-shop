@@ -1,0 +1,110 @@
+.card-item{
+    height: 19rem;
+    border-radius: 0;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 3px;
+    padding: .5rem;
+}
+.image-con{
+    width: 100%;
+    height: 60%;
+    overflow: hidden;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.card-img-top {
+    object-fit: cover !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.item-img{
+    border-radius: 4px !important;
+}
+.card-detail{
+    padding: .4rem 0 0 0 !important;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.products{
+    display: flex;
+    flex-direction: column;
+}
+.cart-name{
+    font-size: .9rem;
+    font-weight: 400;
+    margin-bottom: 0 !important;
+}
+.cart-brand{
+    margin-bottom: 0 !important;
+}
+.cart-price-addbtn{
+    height: 30px;
+}
+.cart-price-wrap, .cart-addbtn-wrap{
+    width: 49%;
+    display: flex;
+    align-items: flex-start;
+}
+.cart-addbtn-wrap{
+    justify-content: end;
+    padding: 0 .3rem 0 0;
+}
+.card-text {
+    font-size: .9rem;
+}
+.cart-addbtn{
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .card-item {
+        height: 18.2rem;
+        padding: 0.5rem 0.5rem 0.3rem 0.5rem;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+    .card-title {
+        font-size: 1rem !important;
+    }
+    .card-text, .btn-add-cart {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+    .card-title {
+        font-size: 1.0625rem !important;
+    }
+    .card-text, .btn-add-cart {
+        font-size: 1.0625rem;
+    }
+    .card-item {
+        margin: 0 0;
+    }
+    .image-con {
+        height: 45%;
+    }
+}
+
+@media (min-width: 1200px){
+    .card-title {
+        font-size: 1.0625rem !important;
+    }
+    .card-text, .btn-add-cart {
+        font-size: 1.0625rem;
+    }
+    .card-item {
+        margin: 0 0;
+        height: 20.5rem;
+    }
+    .image-con {
+        height: 65%;
+    }
+}
