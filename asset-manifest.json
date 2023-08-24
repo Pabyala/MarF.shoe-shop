@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MarF.shoe-shop/static/css/main.5ea8c089.css",
-    "main.js": "/MarF.shoe-shop/static/js/main.0aa6733b.js",
+    "main.js": "/MarF.shoe-shop/static/js/main.ac92d2d0.js",
     "static/media/DURAMO RC SHOES.png": "/MarF.shoe-shop/static/media/DURAMO RC SHOES.a1b43ebbf3402336f8f5.png",
     "static/media/TRAE YOUNG 3 SHOES.png": "/MarF.shoe-shop/static/media/TRAE YOUNG 3 SHOES.4cebb634fc8c080f5438.png",
     "static/media/EQ21 RUN SHOES.png": "/MarF.shoe-shop/static/media/EQ21 RUN SHOES.00739a7a50018c9e3b9f.png",
@@ -46,10 +46,10 @@
     "static/media/Vans_Old_Skool_Stackform_Women_s_Sneaker-Philippines-07356.jpg": "/MarF.shoe-shop/static/media/Vans_Old_Skool_Stackform_Women_s_Sneaker-Philippines-07356.883f77ca7d0da0dbb4e8.jpg",
     "index.html": "/MarF.shoe-shop/index.html",
     "main.5ea8c089.css.map": "/MarF.shoe-shop/static/css/main.5ea8c089.css.map",
-    "main.0aa6733b.js.map": "/MarF.shoe-shop/static/js/main.0aa6733b.js.map"
+    "main.ac92d2d0.js.map": "/MarF.shoe-shop/static/js/main.ac92d2d0.js.map"
   },
   "entrypoints": [
     "static/css/main.5ea8c089.css",
-    "static/js/main.0aa6733b.js"
+    "static/js/main.ac92d2d0.js"
   ]
 }
